@@ -1,0 +1,17 @@
+# Altium auto-generated
+History/
+Project Logs for */
+Project Outputs for */
+__Previews/
+
+*.Tmp
+*.LOG
+*.Bak
+*.bkp
+*.~*
+*.Lock
+*.Lck
+
+# Windows junk
+Thumbs.db
+desktop.ini

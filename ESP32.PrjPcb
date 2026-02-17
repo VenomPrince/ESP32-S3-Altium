@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Prototype
 
 [Preferences]
 PrefsVaultGUID=
@@ -133,6 +134,38 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document6]
+DocumentPath=Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueId=af5bdcc4-ba10-4d31-804a-30318b57927b
+Description=Prototype
+AllowFabrication=0
+ParameterCount=0
+VariationCount=7
+Variation1=Designator=R26|UniqueId=\WWZNKJYO|Kind=1|AlternatePart=
+Variation2=Designator=R25|UniqueId=\KKABXVYW|Kind=1|AlternatePart=
+Variation3=Designator=C17|UniqueId=\XHHOJZIZ|Kind=1|AlternatePart=
+Variation4=Designator=R2|UniqueId=\JMZWWBHL|Kind=1|AlternatePart=
+Variation5=Designator=R5|UniqueId=\EICTBRUN|Kind=1|AlternatePart=
+Variation6=Designator=C7|UniqueId=\DKKTIWAU|Kind=1|AlternatePart=
+Variation7=Designator=R9|UniqueId=\BSLCXLJP|Kind=1|AlternatePart=
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ESP32\Design Rule Check - ESP32 PCB V1.html

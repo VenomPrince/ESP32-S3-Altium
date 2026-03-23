@@ -6,7 +6,7 @@ This folder contains 2D and 3D views of the ESP32-S3 PCB design.
 ## 2D Views
 
 <p align="center">
-  <img src="ESP32-S3-First-Layer-2D.png" width="45%" />
+  <img src="ESP32-S3-Pictures/ESP32-S3-First-Layer-2D.png" width="45%" />
   <img src="ESP32-S3-Bottom-Layer-2D.png" width="45%" />
 </p>
 

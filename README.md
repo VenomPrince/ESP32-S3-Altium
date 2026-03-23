@@ -1,4 +1,4 @@
-<p align="center"> # ESP32-S3 PCB 
+<p align="center"> <h2> ESP32-S3 PCB </h2>
 </p>
 ## 2D Views
 <p align="center">

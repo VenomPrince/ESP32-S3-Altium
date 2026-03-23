@@ -1,5 +1,4 @@
-<p align="center"> ###ESP32-S3 PCB</p> 
-
+<h2 align="center">ESP32-S3 PCB</h2>
 ## 2D Views
 <p align="center">
   <img src="ESP32-S3-Pictures/ESP32-S3-First-Layer-2D.png" width="45%" />
